@@ -1,4 +1,5 @@
 # Gmail-Bruteforce
+Go to the file directory
 
 pip install -r requirements.txt
 
